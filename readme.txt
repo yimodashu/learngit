@@ -6,3 +6,5 @@
  如果留下多一秒钟
  可以减少明天
  想你的痛
+
+ git has a mutable index called stage

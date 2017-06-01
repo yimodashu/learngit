@@ -4,4 +4,5 @@
 不止你的温柔
 一路还要走多久
 你攥着我的手
-createing a new barnch is quick $ simple
+createing a new branch is quick and simple
+

@@ -8,3 +8,5 @@
  想你的痛
 
  git has a mutable index called stage
+
+ add test
